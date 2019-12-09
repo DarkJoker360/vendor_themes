@@ -1,4 +1,4 @@
 # Themes
 PRODUCT_PACKAGES += \
-    ThemePicker
+    ThemePicker \
     TitaniumOverlayStub
